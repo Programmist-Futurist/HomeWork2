@@ -16,7 +16,7 @@ public class ArraySimpleNum {
                         det+=1;
                     }
                 }
-                if (det==0){
+                if (det == 0){
                     array[i]=num;
                     point=++num;
                     break;
