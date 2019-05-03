@@ -20,7 +20,6 @@ public class TriangleArray {
                 }
                 int c=temp1/(temp2*temp3);
                 array[i][j] = c;
-//                System.out.println(array.length);
             }
         }
         System.out.println(Arrays.deepToString(array));
